@@ -5,7 +5,7 @@ from homeassistant.components.sensor import SensorDeviceClass, SensorEntityDescr
 from homeassistant.const import PERCENTAGE, SIGNAL_STRENGTH_DECIBELS
 from homeassistant.helpers.entity import EntityCategory
 
-DOMAIN = "sms"
+DOMAIN = "MySms"
 SMS_GATEWAY = "SMS_GATEWAY"
 HASS_CONFIG = "sms_hass_config"
 CONF_SMS_STATE = "sms_state_opt"

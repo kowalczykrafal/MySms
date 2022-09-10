@@ -1,5 +1,5 @@
 {
-  "domain": "sms",
+  "domain": "MySms",
   "name": "SMS notifications via GSM-modem",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/sms",
